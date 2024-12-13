@@ -611,5 +611,186 @@ namespace RunCat.Properties {
                 return ((System.Drawing.Icon)(obj));
             }
         }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_0 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_0", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_1 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_2 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_2", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_3 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_3", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_4 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_4", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_5 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_5", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_6 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_6", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_7 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_7", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_8 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_8", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon dark_kirby_9 {
+            get {
+                object obj = ResourceManager.GetObject("dark_kirby_9", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_0 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_0", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_1 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_2 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_2", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_3 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_3", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_4 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_4", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_5 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_5", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_6 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_6", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_7 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_7", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_8 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_8", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon light_kirby_9 {
+            get {
+                object obj = ResourceManager.GetObject("light_kirby_9", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+
+            }
+        }
     }
 }
